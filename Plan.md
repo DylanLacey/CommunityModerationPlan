@@ -2,6 +2,21 @@
 ## Who is responsible for Moderation?
 Moderation is the responsibility of the Community Team, in line with our desired atmosphere and the Code of Conduct.  The Slack is a professional venue akin to a conference; We want to be fun and engaging, while maintaining trustworthy, work-appropriate vibes.  The desired goal is to be a digital watercooler.
 
+## Requests for Assistance
+### Appropriate Channels
+Requests for assistance should be made in the appropriate, technology-specific channel under the `Help Me` section.  If a user posts a request for assistance in another channel, moderators should:
+1. Use the Forward button (found by hovering over the message and chosing the arrow in the context menu) to open the forwarding dialog.
+2. Choose the appropriate channel, and add the message: _Please ask for assistance with {topic} in the {channel} channel_, replacing {topic} and {channel} as appropriate.
+3. Forward the message.
+4. Delete the original message.
+
+### Threading
+Replies to requests for assistance should take place inside threads.
+
+If someone replies outside the thread:
+1. Copy their message to the thread with the note: "Copying {@name}'s reply to keep things in the thread", replacing {@name} with an @mention of the person.
+2. Delete their original reply.
+
 ## Dealing with Issues
 ### Reporting
 Violations can be reported via a message `@admins` to notify all Slack admins of a problem.  Alternatively, they may choose to DM, or send an email.
